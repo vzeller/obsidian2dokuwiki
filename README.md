@@ -8,7 +8,7 @@ Please make a copy of your obsidian vault before runing this script in its direc
 bash script to convert obsidian vaults to dokuwiki websites.  
 This way you can focus on writing in obsidian and easily publish to a dokuwiki website.
 
-## Reequirements
+## Requirements
 bash  
 sed  
 pandoc  
