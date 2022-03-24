@@ -9,6 +9,6 @@ bash script to convert obsidian vaults to dokuwiki websites.
 This way you can focus on writing in obsidian and easily publish to a dokuwiki website.
 
 ## Reequirements
-bash
-sed
-pandoc
+bash  
+sed  
+pandoc  
